@@ -45,7 +45,7 @@ Point point;
 int drag = 0;
 int destx, desty;
 
-int numpts = 100;
+int numpts = 101;
 Point* pts = new Point[100];
 Point* pts2 = new Point[100];
 Point* pts_diff = new Point[100];
